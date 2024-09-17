@@ -71,5 +71,13 @@ despues de tanto chingarle ya me superé
 | ~~5~~ | *6* | **7** | 8 |
 
 # Citas
+### ~~***Esto es un texto referente a un cita que pondremos de bajo:***~~
+> Esto si es una cita. ~~AAAAAAAA~~
+
+### ***Esto es otro texto que no se realciona con la cita anterior:***
+
+> Another day, another victory (esto también es ooootra cita)
+
+
 
 
