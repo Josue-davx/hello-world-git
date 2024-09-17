@@ -40,13 +40,20 @@ Underline 2
 ![S1000rr](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR0CL18TsZPEpYmfVwb1_SR7ePvkCDmqrXOQ&s)
 
 # Code snippets
+Código JSON
 ```JSON
-{"title": "apples",
-"count": [12000, 20000],
+[
+  {"title": "apples",
+    "count": [12000, 20000],
 "description": {"text": "...", "sensitive": false}
 },
-{"title": "oranges",
-"count": [17500, null],
+  {"title": "oranges",
+  "count": [17500, null],
 "description": {"text": "...", "sensitive": false}
-}
+  }
+]
 ```
+Código JavaScript 
+```JavaScript
+```
+
