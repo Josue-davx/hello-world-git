@@ -21,6 +21,7 @@ Underline 2
 - Formato **bold o strong** de la segunda forma 
 - Formato ~~tachado~~ solo hay una forma 
 - ~~***fromato***~~
+- ~~***que pasa si agrego toda una oración con estos tres formatoooos AAAAAAA***~~
 
 # Listas 
 1. Esto es un ejercicio de listas ordenada 
