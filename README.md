@@ -65,3 +65,11 @@ despues de tanto chingarle ya me superé
 | Marcos | Magnusen | 3795081680101| 
 | Maximo | Romero | 2024018016 |
 
+| Esta | Es | Otra | Tabla |
+|------|----|------|-------|
+| **1** | *2* | ~~3~~ | 4 |
+| ~~5~~ | *6* | **7** | 8 |
+
+# Citas
+
+
