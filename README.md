@@ -59,4 +59,8 @@ despues de tanto chingarle ya me superé
 ```
 
 # Tablas 
+| Nombres | Apellido | Documento |
+|---------|----------|-----------|
+|Josué | Aragón | 3795081680101 |
+| Marcos | Magnusen | 3795081680101| 
 
