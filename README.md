@@ -78,6 +78,17 @@ despues de tanto chingarle ya me superé
 
 > Another day, another victory (esto también es ooootra cita)
 
+# Lineas Divisoras 
+#### ~~En este espacio tengo que escribir cualquier cosa que se me ocurra para poder perder un poquito de tiempo y de ese modo poder terminar el dia justo con los videos~~
+---
+**Aqui voy a escribir otra vez cualquier cosa con tal de perder un poco mas de tiempo, JAJAJAJ que dia tan huevaaaaa**
+***
+
+### *Para perder un cacho mas de tiempo este lo voy a tratar de dividir con astericos y guiones*
+---
+Evidentemente, no pude, asi que este lo voy a dividir con guiones bajos
+___
+
 
 
 
