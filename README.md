@@ -37,4 +37,16 @@ Underline 2
 - [***Old time rock and roll***](https://www.youtube.com/watch?v=W1LsRShUPtY)
 
 # Imagenes 
-![S1000rr](https://w7.pngwing.com/pngs/221/1004/png-transparent-bmw-s1000rr-car-2014-bmw-3-series-bmw-exhaust-system-car-motorcycle.png)
+![S1000rr](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR0CL18TsZPEpYmfVwb1_SR7ePvkCDmqrXOQ&s)
+
+# Code snippets
+```JSON
+{"title": "apples",
+"count": [12000, 20000],
+"description": {"text": "...", "sensitive": false}
+},
+{"title": "oranges",
+"count": [17500, null],
+"description": {"text": "...", "sensitive": false}
+}
+```
